@@ -18,3 +18,5 @@ docker build -t smart_xray_calc .
 docker run -p 8501:8501 smart_xray_calc 
 
 
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart_xray_calc)](https://hub.docker.com/r/doohyun2/smart_xray_calc)
