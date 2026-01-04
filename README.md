@@ -6,7 +6,15 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 
 How to run 
 
+-Quick Start (Docker Hub)-
+
+docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+
+
+-docker build start-
+
 docker build -t smart_xray_calc .
 
 docker run -p 8501:8501 smart_xray_calc 
+
 
