@@ -17,9 +17,9 @@ sudo docker pull doohyun2/smart_xray_calc:latest
 
 -Quick Start (Docker Hub)-
 
-Linux : sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+Linux :    sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
 
-MacOS : sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+MacOS :  sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
 
 Window:      docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
 
@@ -35,6 +35,7 @@ run and click >>
 docker build -t smart_xray_calc .
 
 docker run -p 8501:8501 smart_xray_calc 
+
 
 
 
