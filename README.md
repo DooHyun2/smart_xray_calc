@@ -12,10 +12,13 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 <img width="904" height="779" alt="image" src="https://github.com/user-attachments/assets/a3589cb4-c1e0-4f87-a56d-c2e22a88fa13" />
 
 How to run 
+
 -docker pull-
 sudo docker pull doohyun2/smart_xray_calc:latest
 
+
 -Quick Start (Docker Hub)-
+
 
 Linux :    sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
 
@@ -35,6 +38,7 @@ run and click >>
 docker build -t smart_xray_calc .
 
 docker run -p 8501:8501 smart_xray_calc 
+
 
 
 
