@@ -17,7 +17,11 @@ sudo docker pull doohyun2/smart_xray_calc:latest
 
 -Quick Start (Docker Hub)-
 
-sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+Linux : sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+MacOS : sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+Window:      docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+
+
 
 run and click >> 
 [![Localhost Connect](https://img.shields.io/badge/Local-App_Connect-8501?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed)](http://localhost:8501)
@@ -30,6 +34,7 @@ docker run -p 8501:8501 smart_xray_calc
 
 
 <a href="https://info.flagcounter.com/tYKJ"><img src="https://s01.flagcounter.com/count2/tYKJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 
 
