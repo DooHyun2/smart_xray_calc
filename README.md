@@ -5,6 +5,8 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 
 2026/03/16 Update: Added X-ray Tube Mode (mA/kV)
 
+No installation required
+
 
 [![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
 
