@@ -19,7 +19,7 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 How to run 
 
 
-[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://3.24.242.57:8501) << click 
+[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
 
 
 -docker pull-
