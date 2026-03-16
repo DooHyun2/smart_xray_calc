@@ -3,7 +3,7 @@ This application is a specialized calculator designed to optimize "X-ray exposur
 industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmission experiments
 
 
-[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://3.24.242.57:8501) << click 
+[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
 
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart_xray_calc)](https://hub.docker.com/r/doohyun2/smart_xray_calc)  << click
