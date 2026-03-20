@@ -58,9 +58,9 @@ run and click >>
 
 -docker build start-
 
-docker build -t smart_xray_calc .
+docker build -t smart-xray-calc .
 
-docker run -p 8501:8501 smart_xray_calc 
+docker run -p 8501:8501 smart-xray-calc 
 
 
 
