@@ -13,7 +13,7 @@ No installation required
 http://52.62.146.78:8501
 
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart_xray_calc)](https://hub.docker.com/r/doohyun2/smart_xray_calc)  << click
+[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart-xray-calc)](https://hub.docker.com/r/doohyun2/smart-xray-calc)  << click
 
 
 
