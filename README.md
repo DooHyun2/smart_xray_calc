@@ -25,6 +25,12 @@ previous
 
 <img width="904" height="779" alt="image" src="https://github.com/user-attachments/assets/a3589cb4-c1e0-4f87-a56d-c2e22a88fa13" />
 
+
+<p align="center">
+  <img src="[<img width="812" height="565" alt="image" src="https://github.com/user-attachments/assets/1b4b5f8c-0a30-457b-acd3-68361a65095a" />
+]" alt="Smart X-ray Exposure Calculator UI Screenshot" width="100%" />
+</p>
+
 How to run 
 
 
