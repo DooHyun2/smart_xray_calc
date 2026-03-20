@@ -22,8 +22,12 @@ previous
 
 
 
+<img width="812" height="565" alt="image" src="https://github.com/user-attachments/assets/62ce871f-7049-4246-bd9f-fd12cd65ede4" />
 
-<img width="904" height="779" alt="image" src="https://github.com/user-attachments/assets/a3589cb4-c1e0-4f87-a56d-c2e22a88fa13" />
+
+<img width="772" height="759" alt="image" src="https://github.com/user-attachments/assets/9a2cb391-c2cc-441e-af64-8c3760567512" />
+
+
 
 
 
