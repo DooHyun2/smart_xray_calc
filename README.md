@@ -5,15 +5,19 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 
 2026/03/16 Update: Added X-ray Tube Mode (mA/kV)
 
-No installation required
-
-
-[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
+No installation required\
 
 http://52.62.146.78:8501
 
+Latest Version
+
+[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart-xray-calc)](https://hub.docker.com/r/doohyun2/smart-xray-calc)  << click
+
+previous
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart_xray_calc)](https://hub.docker.com/r/doohyun2/smart_xray_calc)
 
 
 
@@ -29,7 +33,7 @@ http://52.62.146.78:8501
 
 
 -docker pull-
-sudo docker pull doohyun2/smart_xray_calc:latest
+sudo docker pull doohyun2/smart-xray-calc:latest
 
 
 -Quick Start (Docker Hub)-
