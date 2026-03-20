@@ -35,11 +35,11 @@ sudo docker pull doohyun2/smart_xray_calc:latest
 -Quick Start (Docker Hub)-
 
 
-Linux :    sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+Linux :    sudo docker run -d -p 8501:8501 --name xray-final doohyun2/smart-xray-calc
 
-MacOS :  sudo docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+MacOS :  sudo docker run -d -p 8501:8501 --name xray-final doohyun2/smart-xray-calc
 
-Window:      docker run -d -p 8501:8501 doohyun2/smart_xray_calc:latest
+Window:      docker run -d -p 8501:8501 --name xray-final doohyun2/smart-xray-calc
 
 
 
