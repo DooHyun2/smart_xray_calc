@@ -36,7 +36,7 @@ How to run
 
 [![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
 
-http://52.62.146.78:8501
+http://52.62.146.78:8501  (PC,Mobile)
 
 
 -docker pull-
