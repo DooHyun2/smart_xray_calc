@@ -8,7 +8,7 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 No installation required
 
 
-http://52.62.146.78:8501 (PC, Mobile)
+[http://52.62.146.78:8501](https://doohyun-xray.streamlit.app/) (PC, Mobile)
 
 Latest Version
 
