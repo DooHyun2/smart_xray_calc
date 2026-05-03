@@ -5,9 +5,9 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 
 2026/03/16 Update: Added X-ray Tube Mode (mA/kV)
 
-No installation required
 
 
+https://doohyun-xray.streamlit.app/
 [http://52.62.146.78:8501](https://doohyun-xray.streamlit.app/) (PC, Mobile)
 
 Latest Version
