@@ -7,12 +7,12 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 
 
 
-https://doohyun-xray.streamlit.app/
-[http://52.62.146.78:8501](https://doohyun-xray.streamlit.app/) (PC, Mobile)
+
+[https://doohyun-xray.streamlit.app/](https://doohyun-xray.streamlit.app/) (PC, Mobile)
 
 Latest Version
 
-[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click (PC, Mobile) 
+[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](https://doohyun-xray.streamlit.app/) << click (PC, Mobile) 
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart-xray-calc)](https://hub.docker.com/r/doohyun2/smart-xray-calc)  << click
 
