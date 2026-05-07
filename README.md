@@ -23,10 +23,15 @@ previous
 
 
 
-<img width="812" height="565" alt="image" src="https://github.com/user-attachments/assets/62ce871f-7049-4246-bd9f-fd12cd65ede4" />
+<img width="870" height="776" alt="image" src="https://github.com/user-attachments/assets/dd141cf1-a900-473a-9085-4ae7695c1fb8" />
 
 
-<img width="772" height="759" alt="image" src="https://github.com/user-attachments/assets/9a2cb391-c2cc-441e-af64-8c3760567512" />
+<img width="790" height="730" alt="image" src="https://github.com/user-attachments/assets/22815ec2-8396-4479-a989-baf887bc1ded" />
+
+
+
+
+
 
 
 
@@ -34,10 +39,6 @@ previous
 
 How to run 
 
-
-[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](http://52.62.146.78:8501) << click 
-
-http://52.62.146.78:8501  (PC,Mobile)
 
 
 -docker pull-
