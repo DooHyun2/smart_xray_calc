@@ -173,4 +173,5 @@ with col2:
 # ── Footer ────────────────────────────────────────────────────────────────────
  
 st.divider()
+st.caption("Buildup factor not included — results are conservative estimates.")
 st.caption("Developed by [Duhyun Kim] · [jiu3753@gmail.com] · 2026")
