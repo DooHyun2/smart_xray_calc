@@ -12,13 +12,14 @@ industrial RT sites (using X-ray, Ir-192, Co-60) and laboratory X-ray transmissi
 
 Latest Version
 
-[![Open App](https://img.shields.io/badge/Open_App-Smart_X--ray_Calculator-blue?style=for-the-badge&logo=streamlit)](https://doohyun-xray.streamlit.app/) << click (PC, Mobile) 
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart-xray-calc)](https://hub.docker.com/r/doohyun2/smart-xray-calc)  << click
+[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart-xray-calc)](https://hub.docker.com/r/doohyun2/smart-xray-calc) 
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart_xray_calc)](https://hub.docker.com/r/doohyun2/smart_xray_calc)
 
 previous
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/doohyun2/smart_xray_calc)](https://hub.docker.com/r/doohyun2/smart_xray_calc)
+[https://doohyun-xray.streamlit.app/](https://doohyun-xray.streamlit.app/) 
 
 
 
